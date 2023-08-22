@@ -1,0 +1,27 @@
+body{
+    background: #2e2c2c;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+    
+}
+
+.logo {
+    border: 5px solid #fff;
+    border-radius: 50px;
+    width: 200px;
+}
+
+#title {
+    color: #fff;
+}
+
+.contatos{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contatos li a {
+    text-decoration: underline;
+    color: #fff;
+}
